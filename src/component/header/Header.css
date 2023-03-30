@@ -1,0 +1,30 @@
+.header {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    
+}
+
+nav.header a{
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+    font-weight: 600;
+}
+nav.header a:hover{
+    color: #6047EC;
+}
+.nav-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav.header img{
+    height: 30px ;
+    margin-left: 30px;
+    border-radius: 15px;
+}
