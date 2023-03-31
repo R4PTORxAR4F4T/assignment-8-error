@@ -4,7 +4,7 @@ import './Header.css';
 const Header = () => {
     return (
         <nav className='header'>
-            <h3>Knowledge Cafe</h3>
+            <h2>Knowledge Cafe</h2>
             <div className='nav-right'>
                 <a href="">Home</a>
                 <a href="">About</a>
